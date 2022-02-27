@@ -1,0 +1,18 @@
+body {
+    background-size: cover;
+    background-color: rgb(83, 83, 83);
+    border-image-width: 50%;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+header {
+    color: white;
+    font-size: medium;
+}
+
+button {
+    size-adjust: 60px;
+}
